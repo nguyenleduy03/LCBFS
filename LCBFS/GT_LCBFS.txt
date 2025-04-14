@@ -1,0 +1,18 @@
+﻿Vk = tập các trạng thái có thể đến được trong đúng k bước, và với nó đường đi k-bước chi phí thấp nhất thì ít chi phí hơn bất kỳ
+V0 := S (tập trạng thái đầu)
+previous(START) := NIL
+g(START) = 0
+k := 0
+while (Vk khác rỗng) do
+  Vk+1 := rỗng
+  Với mỗi s trong Vk
+    Với mỗi s1 trong succs(s)
+      Nếu s1 chưa được gán nhãn HAY nếu g(s) + Cost(s,s1) < g(s1)
+        Đặt previous(s1) := s
+        Đặt g(s1) := g(s) + Cost(s,s1)
+        Thêm s1 vào Vk+1
+
+  k := k+1
+Nếu GOAL chưa gán nhãn, thoát FAILURE
+Nglai xây dựng lời giải theo: Đặt Sk là trạng thái thứ k trên đường đi ngắn nhất.
+Định nghĩa Sk = GOAL, và với mọi i <= k, định nghĩa Si-1 = previous(Si).

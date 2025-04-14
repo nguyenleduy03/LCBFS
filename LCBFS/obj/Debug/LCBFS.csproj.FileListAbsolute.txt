@@ -1,0 +1,12 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\bin\Debug\LCBFS.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\bin\Debug\LCBFS.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\bin\Debug\LCBFS.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\obj\Debug\LCBFS.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\obj\Debug\LCBFS.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\LCBFS\LCBFS\obj\Debug\LCBFS.pdb
+D:\NguyenLeDuy\LCBFS\LCBFS\bin\Debug\LCBFS.exe.config
+D:\NguyenLeDuy\LCBFS\LCBFS\obj\Debug\LCBFS.exe
+D:\NguyenLeDuy\LCBFS\LCBFS\obj\Debug\LCBFS.pdb
+D:\NguyenLeDuy\LCBFS\LCBFS\bin\Debug\LCBFS.exe
+D:\NguyenLeDuy\LCBFS\LCBFS\bin\Debug\LCBFS.pdb
+D:\NguyenLeDuy\LCBFS\LCBFS\obj\Debug\LCBFS.csprojResolveAssemblyReference.cache
